@@ -5,10 +5,7 @@ function checkEmail(str)
     {
          return  true;
     }
-    else
-    {
-         return  false;
-    }
+    return  false;
 
 }
 
